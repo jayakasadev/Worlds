@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Worlds</string>
-    <string name="parse_server_url">ec2-184-72-206-13.compute-1.amazonaws.com</string>
+    <string name="parse_server_url">http://ec2-184-72-206-13.compute-1.amazonaws.com:80/parse/</string>
     <string name="parse_app_id">6ad32eccac1e3982e4b89eb9716d883d39dd94bb</string>
+    <string name="parse_key">efb86f381313789365c72de4240863c8f95fb797</string>
 </resources>
